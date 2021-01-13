@@ -44,7 +44,7 @@ A simple CRUD app backend built in nodejs + typescript with:
 }
 ```
 
-###### The header of the next routes must contain the Bearer token provided by the sessions route
+###### The header of the next routes must contain the Bearer token provided by the session route
 * Make a post request with the following payload on the route /appointments to create an appointment
 
 ```
